@@ -1,22 +1,16 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6947EF&height=120&section=header"/>
 
-### Olá Astronauta! Eu sou o Amaral 🧑‍🚀🪐
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6947EF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+ASTRONAUT!;MY+NAME+is+Renato+Amaral;I+am+from+Brazil,+PE+-+Recife;I'm+a+Full-Stack+Developer;Be+welcome+to+space+:%29)](https://git.io/typing-svg)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=messier-amaral&show_icons=true&count_private=true&hide_border=true&title_color=6947EF&icon_color=6947EF&text_color=c9d1d9&bg_color=0d1117" alt="Messier Amaral github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=messier-amaral&layout=compact&hide_border=true&title_color=6947EF&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/messier-amaral) [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amaral_dev) [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://messieramaral.com) 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=messier-amaral&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=messier-amaral&show_icons=true&theme=radical)
-
-### Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block"><hr/><br>
-   <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="html5">
-   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
-   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="html5">
-   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="html5">
-   <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="html5">
-   <img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="html5">
-   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="html5">
-   <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="html5">
-   <img align="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="html5">
-
+<div align="center">  
+<a href="www.instagram.com/messier.amaral" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
