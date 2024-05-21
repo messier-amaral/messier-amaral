@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6947EF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=264CFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6947EF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+ASTRONAUT!;MY+NAME+is+Renato+Amaral;I+am+from+Recife+in+Brazil;I'm+a+Full-Stack+Developer;AND+UI/UX+Designer;Be+welcome+to+my+space+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=264CFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+ASTRONAUT!;MY+NAME+is+Renato+Amaral;I+am+from+Recife+in+Brazil;I'm+a+Full-Stack+Developer;AND+UI/UX+Designer;Be+welcome+to+my+space+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="30%" height="30%" src="https://i.imgur.com/mgYBvMQ.png" lang="en" data-id="mgYBvMQ"><a href="https://i.imgur.com/mgYBvMQ.png" alt="Messier Amaral Logo" /> 
+  <img width="30%" height="30%" src="https://i.imgur.com/mgYBvMQ.png" lang="en" data-id="mgYBvMQ"><a href="https://i.imgur.com/Lyo5ybO.png" alt="Messier Amaral Logo" /> 
 </div>
 
 <div align="center">  
